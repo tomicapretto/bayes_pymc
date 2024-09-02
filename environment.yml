@@ -1,0 +1,14 @@
+name: pymc-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arviz=0.19.0
+  - ipykernel=6.29.5
+  - ipywidgets=8.1.5
+  - jupyter
+  - preliz=0.9.0
+  - pymc=5.16.2
+  - pytensor=2.25.1
+  - python-graphviz  
+  - python=3.11.9
